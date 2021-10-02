@@ -1,5 +1,5 @@
-﻿Data Science Syllabus
--Hritik Chaturvedi
+﻿# Data Science Syllabus
+-By Hritik Chaturvedi
 
 Prerequisites:
 

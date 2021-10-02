@@ -1,3 +1,4 @@
+# Python Core
 1. Introduction and Environment Creation:
 
             Programming Basics and prerequisites
@@ -12,32 +13,23 @@
 
 2. Theory and Basics:
 
-            Variables
-            
-            Data Types
-            
+            Variables            
+            Data Types            
             Operators
-            
             Booleans and Comparison
 
 3. Functions and Different Statements:
             
             Inbuilt Python Functions
-            
             User defined Functions
-            
             Conditional Statement (If, elif, if-else, Nested If)
-            
             Looping Statements (For loop, While)
 
 4. Inbuilt Data Structures
 
             List
-            
             Tuple
-            
             Sets
-            
             Dictionaries
 
 5. Working with Inbuilt Data Structures:
@@ -52,7 +44,9 @@
             Modules in Python
             Packages and importing
 
-7. Classes in Python
+7. OOPs concept:
+            
+            Classes in Python
 
 8. Exception Handling
 

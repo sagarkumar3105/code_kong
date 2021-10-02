@@ -1,4 +1,4 @@
-# JAVA SYLLABUS
+# Java Core
 1. Theoretical Concepts:
    - Introduction To Java
     - Creating And  Understanding Our First Code In Java

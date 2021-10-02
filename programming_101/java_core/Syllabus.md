@@ -1,20 +1,22 @@
-JAVA SYLLABUS
-1)INTRODUCTION TO JAVA’
-2)CREATING AND  UNDERSTANDING OUR FIRST CODE IN JAVA
-3)COMMENTS
-4)PROGRAMMING BASICS
-5)VARIABLES
-6)DATATYPES
-7)OPERATORS
-8)TAKING USER INPUT
-9)STRING METHODS
-10)MATH CLASS
-11)CONDITIONAL STATEMENTS
-12)LOOPS( FOR,WHILE ,DO-WHILE)
-13)SWITCH STATEMENTS
-14)BREAK AND CONTINUE
-15)ARRAYS
-16)TRY-CATCH 
-17)METHODS
-
-
+# JAVA SYLLABUS
+1. Theoretical Concepts:
+   - Introduction To Java
+    - Creating And  Understanding Our First Code In Java
+    - Java Programming Basics
+2. Basics Terminologies and Techniques :
+   - Comments
+   - Variables
+   - Datatypes 
+   - Operators and their types
+   - Taking User Input
+3. Working with Control statement: 
+    - String Methods
+    - Math Class
+    - Conditional Statements
+    - Loops( For,while ,do-while)
+    - Switch Statements
+    - Break And Continue
+4. Extended Concepts:
+    - Arrays
+    - Try-catch 
+    - Methods in Java

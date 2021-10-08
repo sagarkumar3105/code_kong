@@ -12,7 +12,7 @@
 
 ## 2. File operations and permissions
 - Playing with files - cat, rm, mv, cp, echo
-- Dealing with directions - mkdir, rmdir
+- Dealing with directories - mkdir, rmdir
 - Playing with filesystem permissions - chmod, chown, chgrp
 - File manipulation - i/o redirections
 - Using Pipes
